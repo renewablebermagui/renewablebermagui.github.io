@@ -1,0 +1,56 @@
+# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+# plugins: 
+# - jekyll-remote-theme
+title: Mudcrab Darwin harbour crossing
+description: An underwater crossing of Darwin harbour in an electric Landcruiser
+author: matt
+timezone: Australia/Melbourne
+
+plugins:
+  - jekyll-paginate
+paginate: 5
+paginate_path: "/posts/page:num/"
+
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about
+- title: Media
+  url: /media
+- title: Posts
+  url: /posts
+
+navigation_footer:
+- title: Underwater landcruiser
+  url: https://mudcrab-landcruiser.github.io
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      feature_image: "/img/mudcrab.jpg"
+      author: "matt"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+
+
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
