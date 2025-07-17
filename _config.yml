@@ -1,9 +1,9 @@
 # remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 # plugins: 
 # - jekyll-remote-theme
-title: Mudcrab Darwin harbour crossing
-description: An underwater crossing of Darwin harbour in an electric Landcruiser
-author: matt
+title: Renewable Bermagui
+description: Community-led energy change on the NSW South Coast
+author: alex
 timezone: Australia/Melbourne
 
 plugins:
@@ -24,7 +24,7 @@ navigation_header:
   url: /posts
 
 navigation_footer:
-- title: Underwater landcruiser
+- title: Renewable Bermagui
   url: https://renewablebermagui.github.io
 
 
@@ -33,8 +33,8 @@ defaults:
     scope:
       path: ""
     values:
-      feature_image: "/img/mudcrab.jpg"
-      author: "matt"
+      feature_image: "/img/gulaga_2000_900.jpg"
+      author: "alex"
   -
     scope:
       path: ""
