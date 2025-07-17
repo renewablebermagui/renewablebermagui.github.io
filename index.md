@@ -1,15 +1,14 @@
 ---
 layout: homepage
-feature_image: 'img/mudcrab.jpg'
+feature_image: 'img/gulaga_2000_900.jpg'
 ---
 
-# World's First Underwater Car
+## Renewable Bermagui
 
-In July 2023 we drove it 7km across Darwin Harbour, 30m deep at is peak
+We are community-led volunteer organisation based in Bermagui on the South Coast of New South Wales. We are a local chapter of the Cobargo and District Energy Transition group (CaDET). Our local chapter has been active since early 2024: working to bring in events, education, and support our community in transitioning to renewable and sustainable technologies.
 
-It's called the Mudcrab - it's a fully electric, underwater-rated 1978 Toyota Landcruiser 
 
-It was built and driven by 'ragtag team of engineers, commercial divers and revheads' according to ABC News Australia, which is about right
+## Acknowledgement of Country
 
-![Embedding an image](/drone_begin_crossing.jpg)
+The Renewable Bermagui team acknowledges the Djiringanj people of the Yuin Nation, the traditional custodians of the land on which this project is situated. We acknowledge that the Djiringanj people have been caring for this country for tens of thousands of years and respect their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
 
