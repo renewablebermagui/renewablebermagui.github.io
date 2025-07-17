@@ -19,7 +19,7 @@ navigation_header:
 - title: About
   url: /about
 - title: Newsletter
-  url: /media
+  url: /newsletter
 - title: Posts
   url: /posts
 
