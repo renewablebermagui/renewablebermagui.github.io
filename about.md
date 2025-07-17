@@ -4,14 +4,16 @@ title: About
 permalink: /about
 ---
 
-## About Renewable Bermagui
-
-We are community-led volunteer organisation based in Bermagui on the South Coast of New South Wales. We are a local chapter of the Cobargo and District Energy Transition group (CaDET). The Renewable Bermagui local chapter has been active since early 2024.
-
 ## Our goals
 
 We are a passionate group of volunteers working to:
-* Improve access to renewable energy technology in our communty
+* Improve access to renewable energy technology in our community
 * Help locals lower their energy bill costs
 * Increase understanding and use of new technologies for energy resilience and emissions reduction
+
+## Who we are
+*Coming soon!*
+We are working on short introductions for our volunteer team so you can find out a bit more about us - please check back soon!
+
+
 
