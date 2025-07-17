@@ -20,7 +20,7 @@ navigation_header:
   url: /about
 - title: Newsletter
   url: /newsletter
-- title: Posts
+- title: Blog
   url: /posts
 
 navigation_footer:
