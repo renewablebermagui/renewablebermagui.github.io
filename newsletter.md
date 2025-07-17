@@ -6,8 +6,7 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ---
 
 ## Sign up to our Newsletter
-*Sign-up web-form coming soon!*
-Please email us at hello@renewablebermagui.org to sign up to our Newsletter!
+[Click here to sign up to our Newsletter](https://stats.sender.net/forms/egvljd/view)
 
 ## Newsletter Archive
 
