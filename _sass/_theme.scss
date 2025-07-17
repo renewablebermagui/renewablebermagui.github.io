@@ -1,3 +1,11 @@
+.footer {
+  .aoc-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 // Structural elements
 body {
   background: $backgroundColour;
@@ -33,6 +41,7 @@ body {
       @include align-items(center);
     }
   }
+
 }
 
 .header .nav {
