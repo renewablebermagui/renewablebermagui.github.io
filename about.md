@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about
-feature_image: 'img/team_1500_675.jpg'
+feature_image: 'img/launch_1500_675.jpg'
 ---
 
 ## Our goals
