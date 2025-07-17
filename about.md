@@ -4,19 +4,14 @@ title: About
 permalink: /about
 ---
 
-# Underwater crossing of Darwin harbour
+# Renewable Bermagui
 
-## What
+We are community-led volunteer organisation based in Bermagui on the South Coast of New South Wales. We are a local chapter of the Cobargo and District Energy Transition group (CaDET). The Renewable Bermagui local chapter has been active since early 2024.
 
-We built and drove a custom eletric landcruiser across the bottom of Darwin Harbour.
+# Our goals
 
-## Why
+We are a passionate group of volunteers working to:
+* Improve access to renewable energy technology in our communty
+* Help locals lower their energy bill costs
+* Increase understanding and use of new technologies for energy resilience and emissions reduction
 
-Why not?
-
-But also, to re-attempt a famous attempt from 40 years ago.
-
-## How
-
-We ripped out the old engine and drivetrain and replaced it with an electric one.
-All the components needed to be protected from salt water, and also able to survive the pressure at 30m depth underwater.
