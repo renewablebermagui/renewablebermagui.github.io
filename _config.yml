@@ -27,6 +27,8 @@ navigation_footer:
 - title: Renewable Bermagui
   url: https://renewablebermagui.github.io
 
+social_links:
+- { platform: instagram, user_url: "https://instagram.com/renewable_bermagui" }
 
 defaults:
   -
