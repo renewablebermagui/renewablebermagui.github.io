@@ -53,6 +53,22 @@ body {
       @include align-items(center);
     }
   }
+  .logo-container {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .nav-container {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
 
 }
 
