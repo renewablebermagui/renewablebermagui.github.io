@@ -18,10 +18,11 @@ navigation_header:
   url: /
 - title: About
   url: /about
+- title: Latest updates
+  url: /posts
 - title: Newsletter
   url: /newsletter
-- title: Updates
-  url: /posts
+
 
 navigation_footer:
 - title: Renewable Bermagui
