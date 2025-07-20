@@ -17,6 +17,7 @@
   }
 }
 
+
 // Structural elements
 body {
   background: $backgroundColour;
@@ -81,11 +82,11 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
-  max-height: 6rem;
+  max-height: 8rem;
   @include flexbox;
   @include align-items(center);
   img {
-    max-height: 7rem;
+    max-height: 9rem;
   }
 }
 

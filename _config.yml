@@ -2,7 +2,7 @@
 # plugins: 
 # - jekyll-remote-theme
 title: Renewable Bermagui
-description: Community-led energy change on the NSW South Coast
+description: Community-led energy change on the NSW Far South Coast
 author: alex
 timezone: Australia/Melbourne
 
@@ -20,7 +20,7 @@ navigation_header:
   url: /about
 - title: Newsletter
   url: /newsletter
-- title: Blog
+- title: Updates
   url: /posts
 
 navigation_footer:
