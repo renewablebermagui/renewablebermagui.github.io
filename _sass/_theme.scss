@@ -53,28 +53,12 @@ body {
       @include align-items(center);
     }
   }
-  .logo-container {
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    padding: 10px;
-  }
 
-  .nav-container {
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    padding: 10px;
-  }
 
 
 }
 
-/*
+
 .header .nav {
   display: flex;
   flex-direction: column-reverse;
@@ -82,15 +66,7 @@ body {
   justify-content: flex-end;
   overflow: hidden;
 }
-*/
 
-.header .nav {
-  display: flex;
-  flex-direction: column-reverse;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
 
 .feature {
   padding-bottom: .4rem;
