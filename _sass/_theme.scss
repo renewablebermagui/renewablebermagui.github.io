@@ -36,9 +36,8 @@ body {
 
 
 // Header, feature and footer
-.header,
-.footer {
-  .nav {
+.header, .footer {
+  nav {
     text-align: right;
   }
   .logo {
@@ -53,9 +52,17 @@ body {
       @include align-items(center);
     }
   }
+}
 
+.footer .socials-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 
-
+  nav {
+    text-align: center;
+  }
 }
 
 
