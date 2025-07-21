@@ -16,12 +16,12 @@ We are a passionate group of volunteers working to:
 * Help locals lower their energy bill costs
 * Increase understanding and use of new technologies for energy resilience and emissions reduction
 
-## Sign up to our Newsletter
+## Get in touch:
+
+{% include button.html text="Facebook" icon="facebook" link="https://facebook.com/renewablebermagui" color="#0366d6" %}
+{% include button.html text="Instagram" icon="instagram" link="https://facebook.com/renewablebermagui" color="#cf11ffff" %}
+{% include button.html text="Email" icon="mail" link="mailto:hello@renewableberamgui.org" color="#499403ff" %}
 
 <div style="text-align: left" class="sender-form-field" data-sender-form-id="egvljd"></div>
 Use the form above, or [CLICK HERE](https://stats.sender.net/forms/egvljd/view){:target="_blank"} to open a new tab to sign up to our newsletter.
-
-## Get in touch:
-
-{% include nav-social.html %}
 

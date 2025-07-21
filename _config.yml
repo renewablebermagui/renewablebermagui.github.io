@@ -9,9 +9,7 @@ timezone: Australia/Melbourne
 logo: "/assets/logos/RBlogo_colour.png" # Site logo, also used in jekyll-seo-tag
 
 navigation_header:
-- title: Newsletter
-  url: /#sign-up-to-our-newsletter
-- title: Contact us
+- title: Get in Touch
   url: /#get-in-touch
 - title: Archive
   url: /archive
@@ -47,3 +45,4 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap
+    - https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap
