@@ -6,22 +6,17 @@ description: Community-led energy change on the NSW Far South Coast
 author: alex
 timezone: Australia/Melbourne
 
-plugins:
-  - jekyll-paginate
-paginate: 5
-paginate_path: "/posts/page:num/"
-
 logo: "/assets/logos/RBlogo_colour.png" # Site logo, also used in jekyll-seo-tag
 
 navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about
-- title: Latest updates
-  url: /posts
 - title: Newsletter
-  url: /newsletter
+  url: /#sign-up-to-our-newsletter
+- title: Contact us
+  url: /#get-in-touch
+- title: Archive
+  url: /archive
+- title: Resources
+  url: /resources
 
 
 navigation_footer:
@@ -31,12 +26,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Instagram: https://instagram.com/renewable_bermagui
-  link: https://renewablebermagui.github.io
-  Twitter: https://twitter.com/DavidDarnes
-  #LinkedIn: https://www.linkedin.com/in/daviddarnes
-  ##GitHub: https://github.com/daviddarnes
-  #l#ink: https://darn.es
-  #RSS: /feed.xml
+  Facebook: https://facebook.com/renewablebermagui
 
 defaults:
   -
@@ -44,13 +34,6 @@ defaults:
       path: ""
     values:
       feature_image: "/img/gulaga_2000_900.jpg"
-      author: "alex"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
   -
     scope:
       path: ""
@@ -63,4 +46,4 @@ fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap
