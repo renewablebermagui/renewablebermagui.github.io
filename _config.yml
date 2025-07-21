@@ -26,6 +26,21 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Instagram: https://instagram.com/renewable_bermagui
   Facebook: https://facebook.com/renewablebermagui
 
+bermi_socials:
+- name: Facebook
+  id: facebook
+  link: https://facebook.com/renewablebermagui
+  colour: "#0366d6"
+- name: Instagram
+  id: instagram
+  link: https://instagram.com/renewable_bermagui
+  colour: "#cf11ffff"
+- name: Email
+  id: email
+  link: mailto:hello@renewablebermagui.org
+  colour: "#499403ff"
+
+
 defaults:
   -
     scope:
