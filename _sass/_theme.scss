@@ -67,11 +67,9 @@ body {
   }
 }
 
-.socials-container, social-buttons {
-  a {
-    padding-top: 0.5rem;
-    margin-bottom: 1.5rem;
-  }
+.social-buttons a  {
+  padding-top: 0.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .header .nav {
@@ -109,7 +107,7 @@ body {
   }
 }
 
-.nav-container {
+.nav-container .button--nav {
   // This needs to be manually adjusted if you change the logo size in .logo to vertically center the menu icon
   margin-top: 2rem;
 }
@@ -246,6 +244,8 @@ body {
       color: $captionColour;
     }
   }
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 
