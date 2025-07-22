@@ -63,7 +63,7 @@ fonts:
     - https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap
     - https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap
 
- favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
    16: '/img/favicon/rb-favicon-16x16.png'
    32: '/img/favicon/rb-favicon-32x32.png'
 #   96: '/assets/logos/logo@96px.png'
