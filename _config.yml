@@ -6,7 +6,7 @@ description: Community-led energy change on the NSW Far South Coast
 author: alex
 timezone: Australia/Melbourne
 
-logo: "/assets/logos/RBlogo_colour.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/RB_logo_landscape.png" # Site logo, also used in jekyll-seo-tag
 
 navigation_header:
 - title: Get in Touch
