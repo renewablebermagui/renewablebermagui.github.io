@@ -99,11 +99,11 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
-  max-height: 8rem;
+  max-height: 6rem;
   @include flexbox;
   @include align-items(center);
   img {
-    max-height: 9rem;
+    max-height: 7rem;
   }
 }
 
