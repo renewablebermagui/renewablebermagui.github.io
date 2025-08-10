@@ -2,24 +2,19 @@
 layout: homepage
 feature_image: 'img/gulaga_2000_900.jpg'
 ---
+## Know Your Energy Bill workshop - August 24th
+
+We invite you to our FREE community workshop: <b>"Know Your Energy Bill (and what to do about it)"</b> with <b>David Neyle</b> - local energy expert and former Community Energy Coordinator for Renewable Cobargo.
+
+<img src="img/banner3.png" alt="Know Your Energy Bill Workshop banner">
+
+[Click here to book your ticket through our Humanitix event page!](https://events.humanitix.com/renewable-bermagui-know-your-energy-bill){:target="_blank"}
 
 ## About Renewable Bermagui
 
 We are a community-led volunteer organisation based in Bermagui on the Far South Coast of New South Wales, formed in early 2024. We are working to bring events, education, and support our community in transitioning to renewable and sustainable technologies.
 
 We are a local chapter of the [Cobargo and District Energy Transition group (CaDET)](https://renewablecobargo.com){:target="_blank"}.
-
-## August 24th 2025- FREE Workshop
-
-Renewable Bermagui invites you to our FREE community workshop. [Click here to book your ticket through our Humanitix event page!](https://events.humanitix.com/renewable-bermagui-know-your-energy-bill){:target="_blank"}
-
-Details:
-Know Your Energy Bill (and what to do about it)
-Sunday August 24th 2025
-Bermagui Surf Life Saving Club
-10am - 12:30pm (doors open 9:45am)
-FREE TO ATTEND - LIMITED PLACES
-[Click here to book your ticket through our Humanitix event page!](https://events.humanitix.com/renewable-bermagui-know-your-energy-bill){:target="_blank"}
 
 ## Get in touch:
 
