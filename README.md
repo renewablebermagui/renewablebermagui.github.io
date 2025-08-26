@@ -1,4 +1,4 @@
-# Mudcrab landcruiser website
+# Renewable Bermagui website
 
 There are a few special pages, which get direct links (eg. about, contact, homepage).
 
