@@ -9,6 +9,6 @@ feature_image: 'img/gulaga_2000_900.jpg'
 
 ### August 2025
 #### "Know Your Energy Bill" workshop
-Thanks to everyone who came to our August 24th workshop - "Know Your Energy Bill (and what to do about it)". The resources from the workshop are available for download below:
 
-<a href="renewablebermagui.org/assets/2025-08-24-KYEB_DNeyle.pptx" download="2025-08-24-KYEB_DNeyle.pptx">Click to Download "Know Your Energy Bill" Powerpoint presentation by David Neyle</a>
+* <a href="/assets/workshops/2025-08-24-KYEB_DNeyle.pptx" download="2025-08-24-Renewable_Bermagui_KYEB_DNeyle.pptx">Click to Download <b>"Know Your Energy Bill" Powerpoint presentation by David Neyle</b></a>
+* <a href="assets/workshops/2025-08-24-KYEB_Factsheet.pdf" download="2025-08-24-Renewable_Bermagui_KYEB_Factsheet.pdf">Click to Download <b>"Know Your Energy Bill" Factsheet</b></a>
