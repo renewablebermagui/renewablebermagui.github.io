@@ -3,7 +3,8 @@ layout: homepage
 feature_image: 'img/gulaga_2000_900.jpg'
 ---
 ## News
-### 2025-09-05: Know Your Energy Bill Workshop - recap & resources
+### Know Your Energy Bill Workshop - recap & resources
+<i>Posted 5th September 2025 by Alex</i>
 
 Thanks to everyone for coming to our <b>Know Your Energy Bill workshop</b> on August 24th, with David Neyle. We loved everyone's engagement in the presentation and hands on session, and hope you got a lot out of it. And in a case you missed it, the workshop presentation and factsheet are available on our [Resources](/resources){:target="_blank"} page.
 
