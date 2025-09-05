@@ -4,9 +4,9 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ---
 ## Know Your Energy Bill Workshop - recap & resources
 
-Thanks to everyone for coming to our Know Your Energy Bill workshop on August 24th, with David Neyle. We loved everyone's engagement in the presentation and hands on session, and hope you got a lot out of it. We've made the resources from the workshop available for download from our [Resources](renewablebermagui.org/resources){:target="_blank"} page.
+Thanks to everyone for coming to our Know Your Energy Bill workshop on August 24th, with David Neyle. We loved everyone's engagement in the presentation and hands on session, and hope you got a lot out of it. We've made the resources from the workshop available for download from our [Resources](/resources){:target="_blank"} page.
 
-<img src="img/wshop1_fullview.png" alt="Know Your Energy Bill workshop and delicious Honorbread catering">
+<img src="img/wshop1_fullview.jpg" alt="Know Your Energy Bill workshop and delicious Honorbread catering">
 
 Keep an eye out for our next workshop on October 19th - on Home Batteries! Hope to see you there.
 
