@@ -10,7 +10,7 @@ logo: "/assets/logos/RB_logo_landscape.png" # Site logo, also used in jekyll-seo
 
 navigation_header:
 - title: Contact
-  url: /#get-in-touch
+  url: /#contact-us
 - title: Newsletter
   url: /archive
 - title: Resources

@@ -18,7 +18,7 @@ We are a community-led volunteer organisation based in Bermagui on the Far South
 
 We are a local chapter of the [Cobargo and District Energy Transition group (CaDET)](https://renewablecobargo.com){:target="_blank"}.
 
-## Contact us:
+## Contact us
 
 {% include social-buttons.html %}
 
