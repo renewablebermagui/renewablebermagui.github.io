@@ -2,16 +2,13 @@
 layout: homepage
 feature_image: 'img/gulaga_2000_900.jpg'
 ---
-## Know Your Energy Bill workshop - August 24th
+## Know Your Energy Bill Workshop - recap & resources
 
-We invite you to our FREE community workshop: <br>
-<b>"Know Your Energy Bill (and what to do about it)"</b> with <b>David Neyle</b> - local energy expert and former Community Energy Coordinator for Renewable Cobargo.
+Thanks to everyone for coming to our Know Your Energy Bill workshop on August 24th, with David Neyle. We loved everyone's engagement in the presentation and hands on session, and hope you got a lot out of it. We've made the resources from the workshop available for download from our [Resources](renewablebermagui.org/resources){:target="_blank"} page.
 
-For more details and to book your FREE ticket, visit our Humanitix event page:
-[Know Your Energy Bill - Book your ticket](https://events.humanitix.com/renewable-bermagui-know-your-energy-bill){:target="_blank"}
+<img src="img/wshop1_fullview.png" alt="Know Your Energy Bill workshop and delicious Honorbread catering">
 
-<img src="img/banner3.png" alt="Know Your Energy Bill Workshop banner">
-
+Keep an eye out for our next workshop on October 19th - on Home Batteries! Hope to see you there.
 
 ## About Renewable Bermagui
 
