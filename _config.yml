@@ -9,9 +9,9 @@ timezone: Australia/Melbourne
 logo: "/assets/logos/RB_logo_landscape.png" # Site logo, also used in jekyll-seo-tag
 
 navigation_header:
-- title: Get in Touch
+- title: Contact
   url: /#get-in-touch
-- title: Archive
+- title: Newsletter
   url: /archive
 - title: Resources
   url: /resources
