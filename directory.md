@@ -4,5 +4,11 @@ title: Directory
 permalink: /directory
 ---
 
-{% include directory-house-diagram.html %}
-{% include directory-script.html %}
+
+<div class="house-container">
+    {% include directory-house-diagram.html %}
+    <div id="info-box">
+        <p>Click a feature in the house to see details.</p>
+     </div>
+    {% include directory-script.html %}
+</div>
