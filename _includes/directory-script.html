@@ -1,0 +1,16 @@
+  <script>
+    const infoBox = document.getElementById("info-box");
+
+    document.querySelectorAll("#house-svg g").forEach(group => {
+      group.addEventListener("click", () => {
+        if (group.id === "solar-panels") {
+          infoBox.innerHTML = `
+            <p><strong>Solar Panels:</strong> Generate clean electricity from the sun.</p>
+            <p><a href="https://example.com/solar" target="_blank">Learn more</a></p>
+          `;
+        } else {
+          infoBox.innerHTML = `<p>You clicked: ${group.id}</p>`;
+        }
+      });
+    });
+  </script>

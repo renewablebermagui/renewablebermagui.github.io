@@ -18,6 +18,57 @@
 }
 
 
+    .house-container {
+      width: 640px;          /* same width as SVG */
+      margin: 0 auto;        /* centers everything horizontally */
+      text-align: center;    /* centers inline content like text */
+    }
+    .house-container svg {
+      /*
+      width: 640px;
+      height: auto;
+      margin-bottom: 100px;
+      text-align: center;*/
+      display: block;
+      margin: 0 auto;
+    }
+
+    /* Hover effect: scale up slightly */
+    g:hover {
+      transform: scale(1.02);
+      transform-origin: center;
+      cursor: pointer;
+      stroke: blue;
+      stroke-width: 1px;
+    }
+
+    /* Don’t apply hover to the background */
+    #main-house:hover {
+      transform: none;
+      stroke: none;
+      cursor: default;
+    }
+
+    #info-box {
+      width: 640px;
+      min-height: 80px;      /* reserve some space */
+      margin-top: 10px;
+      padding: 10px;
+      border: 2px solid #333;
+      background-color: #f9f9f9;
+      font-family: sans-serif;
+      text-align: left;      /* text left aligned inside */
+    }
+
+    #logo {
+      transform: none;
+      stroke: none;
+      cursor: default;
+    }
+
+
+
+
 // Structural elements
 body {
   background: $backgroundColour;
