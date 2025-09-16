@@ -19,17 +19,17 @@
 
 
     .house-container {
-      width: 100%;             /* full width */
-      max-width: 1400px;        /* optional max size */
-      aspect-ratio: 4 / 3;     /* keeps SVG proportional */
-      position: relative;      /* for absolute positioning of info box */
-      margin: 0 auto;          /* center container */}
+      display: flex;
+      flex-direction: column;    /* stack SVG and info box vertically */
+      width: 100%;               /* container fills parent width */
+      max-width: 1200px;         /* allows SVG to scale larger than original 640px */
+      margin: 0 auto;            /* center container */
+    }
     
     .house-container svg {
       width: 100%;
-      height: 100%;
+      height: auto;
       display: block;
-      margin: 0 auto;
     }
 
     /* Hover effect: scale up slightly */
@@ -49,16 +49,14 @@
     }
 
     #info-box {
-      position: absolute;
-      bottom: 10px;
-      left: 10px;
+      width: 100%;               /* same width as SVG */
       background: rgba(255, 255, 255, 0.9);
-      padding: 0.5em 1em;
       border-radius: 5px;
-      max-width: 90%;
+      box-sizing: border-box;
+      padding: 1em;
       font-size: 1em;
-      pointer-events: none;     /* allows clicks to pass through */
-      }
+      overflow-y: auto;          /* scroll if text is too long */
+    }
 
     #logo {
       transform: none;
@@ -69,7 +67,7 @@
     @media (max-width: 600px) {
       #info-box {
         font-size: 0.9em;
-        padding: 0.4em 0.8em;
+        padding: 0.8em;
       }
     }
 

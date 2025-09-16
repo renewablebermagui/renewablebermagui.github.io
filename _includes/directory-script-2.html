@@ -1,0 +1,45 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const svg = document.querySelector(".house-container svg");
+  const infoBox = document.getElementById("info-box");
+
+  // Function to resize info box to 50% of SVG height
+  function resizeInfoBox() {
+    infoBox.style.height = (svg.getBoundingClientRect().height * 0.5) + "px";
+  }
+
+  // Initial sizing
+  resizeInfoBox();
+
+  // Resize on window change
+  window.addEventListener("resize", resizeInfoBox);
+
+  // Mapping of group IDs to info box HTML content
+  const infoContent = {
+    "solar-panels": 'Solar Panels — <a href="https://example.com/solar" target="_blank">Learn more</a>',
+    "battery": 'Home Battery — <a href="https://example.com/battery" target="_blank">Learn more</a>',
+    "water-heater": 'Water Heater — <a href="https://example.com/water-heater" target="_blank">Learn more</a>',
+    // Add more IDs and content as needed
+  };
+
+  // Add click and hover interactions
+  svg.querySelectorAll('g').forEach(group => {
+    const id = group.id;
+    if (id && infoContent[id]) {
+      group.style.cursor = "pointer";
+
+      group.addEventListener('click', () => {
+        infoBox.innerHTML = infoContent[id];
+      });
+
+      group.addEventListener('mouseenter', () => {
+        group.style.opacity = 0.7;  // hover effect
+      });
+
+      group.addEventListener('mouseleave', () => {
+        group.style.opacity = 1;
+      });
+    }
+  });
+});
+</script>
