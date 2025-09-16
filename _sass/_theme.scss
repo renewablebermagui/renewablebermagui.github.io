@@ -34,7 +34,7 @@
     }
 
     /* Hover effect: scale up slightly */
-    g:hover {
+    .house-container svg g:hover {
       transform: scale(1.02);
       transform-origin: center;
       cursor: pointer;
