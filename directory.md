@@ -9,6 +9,6 @@ permalink: /directory
     {% include directory-house-diagram.html %}
     <div id="info-box">
         <p>Click a feature in the house to see details.</p>
-     </div>
+    </div>
     {% include directory-script-2.html %}
 </div>
