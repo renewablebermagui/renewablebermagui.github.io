@@ -7,9 +7,11 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ### Understanding Home Batteries Workshop - October 19th
 <i>Posted 30th September 2025 by Alex</i>
 
-Our next FREE community workshop is coming up on October 19th, and it's all about Home Batteries. Read more about it and [book your FREE ticket on our Humanitix Event page](https://events.humanitix.com/renewable-bermagui-presents-home-batteries-workshop){:target="_blank"} to let us know you're coming!
+Our next FREE community workshop is coming up on October 19th, and it's all about <b>Home Batteries</b>: how they work, different options and incentives such as Virtual Power Plants and Amber Electric's wholesale energy pricing, and other things to think about when considering if one is right for you.
 
-[!["Understading Home Batteries workshop banner"](img/eventbanner-home-batteries.png")](https://events.humanitix.com/renewable-bermagui-presents-home-batteries-workshop){:target="_blank"}
+Read more about the workshop, and [book your FREE ticket on our Humanitix Event page](https://events.humanitix.com/renewable-bermagui-presents-home-batteries-workshop){:target="_blank"} to let us know you're coming!
+
+[!["Understanding Home Batteries workshop banner"]("img/eventbanner-home-batteries.png")](https://events.humanitix.com/renewable-bermagui-presents-home-batteries-workshop){:target="_blank"}
 
 ### Know Your Energy Bill Workshop - recap & resources
 <i>Posted 5th September 2025 by Alex</i>
