@@ -11,7 +11,7 @@ Our next FREE community workshop is coming up on October 19th, and it's all abou
 
 Read more about the workshop, and [book your FREE ticket on our Humanitix Event page](https://events.humanitix.com/renewable-bermagui-presents-home-batteries-workshop){:target="_blank"} to let us know you're coming!
 
-[!["Understanding Home Batteries workshop banner"]("img/eventbanner-home-batteries.png")](https://events.humanitix.com/renewable-bermagui-presents-home-batteries-workshop){:target="_blank"}
+[!["Understanding Home Batteries workshop banner"](img/eventbanner-home-batteries.png)](https://events.humanitix.com/renewable-bermagui-presents-home-batteries-workshop){:target="_blank"}
 
 ### Know Your Energy Bill Workshop - recap & resources
 <i>Posted 5th September 2025 by Alex</i>
