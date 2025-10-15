@@ -10,5 +10,5 @@ permalink: /directory
     <div id="info-box">
         <p>Click a feature in the house to see details.</p>
     </div>
-    {% include directory-script-2.html %}
+    {% include directory-script-random-order.html %}
 </div>
