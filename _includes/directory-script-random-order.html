@@ -27,6 +27,9 @@ document.addEventListener("DOMContentLoaded", function() {
         ]
     };
 
+    const footer = "<i>Are you a local installer that would like to be listed in our directory? Reach out to us by email!\n Note: The order that the installers are listed is shuffled every day.</i>"
+
+
     // Mapping of group IDs to info box HTML content
     const infoContent = {
         "solar-panels": sharedSuppliers,
@@ -102,6 +105,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     <ul>
                     ${shuffledPoints.map(p => `<li>${p}</li>`).join('')}
                     </ul>
+                    ${footer}
                 `;
                 infoBox.innerHTML = html;
             });
