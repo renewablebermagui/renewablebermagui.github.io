@@ -22,8 +22,8 @@ document.addEventListener("DOMContentLoaded", function() {
             '<a href="http://transitionelectrics.com.au/" target="_blank">Transition Electrics</a>',
             '<a href="https://pureenergyelectrical.com/" target="_blank">Pure Energy Electrical</a>',
             '<a href="https://www.facebook.com/MicroEnergySystems/" target="_blank">Micro Energy Systems Australia</a>',
-            '<a href="https://theswitchelectrical.com.au/ target="_blank">The Switch Electrical</a>',
-            '<a href="https://www.scsr.net.au/contact" target="_blank">Souther Cross Solar Tuross Heads</a>'
+            '<a href="https://theswitchelectrical.com.au/" target="_blank">The Switch Electrical</a>',
+            '<a href="https://www.scsr.net.au/contact" target="_blank">Southern Cross Solar Tuross Heads</a>'
         ]
     };
 
@@ -95,7 +95,6 @@ document.addEventListener("DOMContentLoaded", function() {
             group.style.cursor = "pointer";
 
             group.addEventListener('click', () => {
-                console.log('item clicked')
                 const info = infoContent[id];
                 const shuffledPoints = shuffleArray(info.points, getDailySeed());
                 const html = `
