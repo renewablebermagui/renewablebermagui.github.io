@@ -95,8 +95,9 @@ document.addEventListener("DOMContentLoaded", function() {
             group.style.cursor = "pointer";
 
             group.addEventListener('click', () => {
+                console.log('item clicked')
                 const info = infoContent[id];
-                const shuffledPoints = shuffleArray(info.points, rng);
+                const shuffledPoints = shuffleArray(info.points, getDailySeed());
                 const html = `
                     ${info.heading}
                     <ul>
