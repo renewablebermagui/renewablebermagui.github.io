@@ -5,7 +5,9 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ## News
 
 ### Building and Renovating for an Efficient Home –November 30th
-<i>Posted 1sr November 2025 by Cassie</i>
+<i>Posted 1st November 2025 by Cassie</i>
+
+[!["Building and Renovating for an Efficient Home workshop banner"](img/build-and-renovate-workshop.png)](https://events.humanitix.com/renewable-bermagui-presents-building-and-renovating-for-an-efficient-home){:target="_blank"}
 
 Our next FREE community workshop is coming up on November 30th on <b>Building and Renovating for an Efficient Home</b>. We’re excited to be hosting local experts [PowerHaus Engineering](https://powerhausengineering.com.au/){:target="_blank"}, who will run through upgrade options - from minor retrofits to major renovations - to help improve your home’s thermal comfort, health and energy efficiency.
 
