@@ -4,7 +4,7 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ---
 ## News
 
-### Building and Renovating for an Efficient Home –November 30th
+### Building and Renovating for an Efficient Home Workshop – November 30th
 <i>Posted 1st November 2025 by Cassie</i>
 
 [!["Building and Renovating for an Efficient Home workshop banner"](img/build-and-renovate-workshop.png)](https://events.humanitix.com/renewable-bermagui-presents-building-and-renovating-for-an-efficient-home){:target="_blank"}
