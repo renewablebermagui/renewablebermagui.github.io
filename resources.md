@@ -10,7 +10,7 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ### October 2025
 #### "Home Solar Batteries" workshop
 
-* <a href="/assets/workshops/2025-10-19-RB_Home_batteries_factsheet.pdf" download="2025-10-19-Renewable_Bermagui_Home_batteries_factsheet.pdf">"Home (Solar) Batteries" Factsheet</a>
+* <a href="/assets/workshops/2025-10-19-RB_Home_Batteries_factsheet.pdf" download="2025-10-19-Renewable_Bermagui_Home_Batteries_factsheet.pdf">"Home (Solar) Batteries" Factsheet</a>
 
 ### August 2025
 #### "Know Your Energy Bill" workshop
