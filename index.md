@@ -4,6 +4,17 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ---
 ## News
 
+### Keeping Warm & Cool with The Fix It Chicks - May 24th 2026
+<i>Posted 1st May 2026 by Alex</i>
+
+[!["Electric Vehicle Show & Tell Banner"](img/w5_banner.png)](https://events.humanitix.com/renewable-bermagui-presents-fixit-chicks){:target="_blank"}
+
+We're so excited to be hosting Canberra's "Fix It Chicks" (Jen and Lish) in a FREE community workshop, coming up May 24th at the Bermagui Surf Club. Come along to learn practical tips and tricks to make your home more thermally efficient, and to help you stay warmer this winter <i>and</i> cooler next summer - without breaking the budget. This workshop will be particular useful for renters, and will focus on things you can do yourself without any major purchases. The Fix It Chicks are building efficiency experts AND amazing science communicators, so this event is sure to be both informative and entertaining.
+
+Find out more about the Fix It Chicks and [book your FREE ticket on our Humanitix Event page](https://events.humanitix.com/renewable-bermagui-presents-fixit-chicks){:target="_blank"} to let us know you’re coming! 
+
+This event is being supported by the Bega Valley Shire Council Community Grants Program.
+
 ### Electric Vehicle Show & Tell - March 15th 2026
 <i>Posted 20th February 2026 by Alex</i>
 
