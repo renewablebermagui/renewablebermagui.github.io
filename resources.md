@@ -10,12 +10,12 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ### March 2026
 #### "EV Show & Tell"
 
-* <a href="/assets/workshops/2025-11-28_RB_Home_renovation_factsheet.pdf" download="2025-11-28_Renewable_Bermagui_Home_Renovation_factsheet.pdf">"Building and Renovating for an efficient home" Factsheet</a>
+* <a href="/assets/workshops/2026-03-15_RB_EV_factsheet.pdf" download="2026-03-15_Renewable_Bermagui_EV_factsheet.pdf">Electric Vehicles Factsheet</a>
 
 ### November 2025
 #### "Building and Renovating for an Efficient Home" workshop
 
-* <a href="/assets/workshops/2025-11-28-RB_Home_Batteries_factsheet.pdf" download="2025-10-19-Renewable_Bermagui_Home_Batteries_factsheet.pdf">"Home (Solar) Batteries" Factsheet</a>
+* <a href="/assets/workshops/2025-11-28_RB_Home_renovation_factsheet.pdf" download="2025-11-28_Renewable_Bermagui_Home_Renovation_factsheet.pdf">"Building and Renovating for an efficient home" Factsheet</a>
 
 ### October 2025
 #### "Home Solar Batteries" workshop
