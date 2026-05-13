@@ -7,6 +7,11 @@ feature_image: 'img/gulaga_2000_900.jpg'
 
 ## Resources
 
+### March 2026
+#### "EV Show & Tell"
+
+* <a href="/assets/workshops/2026-03-15_RB_EV_factsheet.pdf" download="2026-03-15_Renewable_Bermagui_EV_factsheet.pd.pdf">"Electric Vehicle Factsheet</a>
+
 ### October 2025
 #### "Home Solar Batteries" workshop
 
