@@ -6,9 +6,10 @@ feature_image: 'img/gulaga_2000_900.jpg'
 
 ### Say Hello at the Bermagui Red Cross Markets!
 <i>Posted 30th August 2026 by Alex</i>
+
 We'll be at the Bermagui Red Cross Markets today (Sunday!) from 8am til noon - come drop in to chat to us about electrification and other sustainable solutions, or grab a fact sheet from one of our workshops!
 
-["Bermagui Red Cross Markets Ad"](img/august30_markets.png)]
+[!["Bermagui Red Cross Markets Ad"](img/august30_markets.png)]
 
 
 ### Keeping Warm & Cool with The Fix It Chicks - May 24th 2026
