@@ -4,7 +4,7 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ---
 ## News
 
-###Energy Explorers: Fun and explosive science comes to Bermagui on November 21st! Book Now!##
+### Energy Explorers: Fun and explosive science comes to Bermagui on November 21st! Book Now!
 <i>Posted 28th October 2026 by Cassie</i>
 
 Renewable Bermagui is bringing science communication expert **Dr Graham Walker** to the far south coast for a series of exciting _Future Energy Science Shows_ — including a **free community show and hands-on workshop for local families**.
