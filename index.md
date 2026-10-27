@@ -4,6 +4,41 @@ feature_image: 'img/gulaga_2000_900.jpg'
 ---
 ## News
 
+**Book now! Energy Explorers: Fun and explosive science comes to Bermagui!**
+<i>Posted 28th October 2026 by Cassie</i>
+
+Renewable Bermagui is bringing science communication expert **Dr Graham Walker** to the far south coast for a series of exciting _Future Energy Science Shows_ — including a **free community show and hands-on workshop for local families**.
+
+Get ready for amazing and sometimes explosive science demonstrations exploring how electricity can replace fossil fuels like natural gas, plus a look at some of the cool, low-emissions technologies shaping our energy future.
+
+Kids will then get hands-on making their own **"Wearable Wind Turbine"** to take home. It's part STEM, part art and craft, with plenty of tinkering, creativity and problem-solving along the way!
+
+**Free community science show and workshop**
+
+📅 **Saturday 21 November 2026**  
+📍 **Bermagui Community Hall** (behind the Library)  
+🕥 **10.30am–12pm** — doors open 10.15am  
+🎟️ **Free — limited places**  
+👧 **Suitable for children aged 6+**
+
+**Parents and guardians must remain with children throughout the event.**
+
+[**Book your free tickets via Humanitix →**](https://events.humanitix.com/renewable-bermagui-presents-dr-graham-s-energy-explorers-science-show-workshop)
+
+**Dr Graham Walker**
+
+Dr Graham Walker has more than 20 years' experience performing, creating and researching science shows, and is one of only two people in the world with a PhD in science show performance.
+
+His high-energy shows combine humour, audience participation and spectacular science demonstrations — from **solar-powered drag racers to vacuum-cleaner-powered marshmallow bazookas**. His aim is simple: to get audiences laughing, learning, wondering and seeing how science connects to everyday life.
+
+**Bringing energy science to local schools**
+
+The community event is part of a broader program of activities during Dr Graham's visit. He will also deliver _Future Energy Science Shows_ to more than **100 primary school students from Bermagui, Cobargo and Quaama Public Schools**.
+
+The program is supported by the **Bega Valley Shire Council Community Environment Grants program**.
+
+We're thrilled to be bringing Dr Graham to our region and giving local kids the opportunity to explore the science behind our changing energy future in such a fun and memorable way!
+
 ### Say Hello at the Bermagui Red Cross Markets!
 <i>Posted 30th August 2026 by Alex</i>
 
