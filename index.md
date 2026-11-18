@@ -9,10 +9,10 @@ feature_image: 'img/gulaga_2000_900.jpg'
 
 Unfortunately, we have had to postpone this Saturday's (Nov 21st) Energy Explorers Family Science show with Dr Graham. We are already working on rescheduling it for a new date in early 2027 - please stay tuned! We are sorry for any dissapointment and hope to see you and your young Energy Explorers next year.
 
-### Energy Explorers: Fun and explosive science comes to Bermagui on ~~November 21st! Book Now!~~ 
+### Energy Explorers: Fun and explosive science comes to Bermagui
 <i>Posted 28th October 2026 by Cassie</i>
 
-**Edit: Unfortunately, the Energy Explorers science show with Dr Graham is <span style="color: red;">POSTPONED - New Date in 2027 to be announced.**</span>
+**Edit: Unfortunately, the Energy Explorers science show with Dr Graham is <span style="color: red;">POSTPONED - New Date in 2027 to be announced.</span>**
 
 Renewable Bermagui is bringing science communication expert **Dr Graham Walker** to the far south coast for a series of exciting _Future Energy Science Shows_ — including a **free community show and hands-on workshop for local families**.
 
@@ -22,7 +22,7 @@ Kids will then get hands-on making their own **"Wearable Wind Turbine"** to take
 
 **Free community science show and workshop**
 
-📅 ~~Saturday 21 November 2026~~ <span style="color: red;">**POSTPONED - New Date in 2027 TBC**</span>
+📅 ~~Saturday 21 November 2026~~ <span style="color: red;">**POSTPONED - New Date in 2027 TBC**</span>  
 📍 **Bermagui Community Hall** (behind the Library)  
 🕥 **10.30am–12pm** — doors open 10.15am  
 🎟️ **Free — limited places**  
